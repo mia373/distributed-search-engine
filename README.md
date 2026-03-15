@@ -1,4 +1,4 @@
-# Network Routing Protocol Implementation
+# Distributed Search Engine
 
 > **Note:** Due to academic integrity policies, the source code is not published. This README describes the project for portfolio purposes.
 
